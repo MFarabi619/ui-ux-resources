@@ -12,6 +12,9 @@ An example of a project brief can be found [here](https://github.com/MFarabi619/
 ## List of tools and useful websites:
 - [Figma](https://www.figma.com/files/recent?fuid=1196916890248607098) for wireframing.
 - [Adobe Color](https://color.adobe.com/create/color-wheel) for color harmonies.
-- [Color Space](mycolor.space) for generating color palettes from a single base color.
-- [Color Hunt](colohunt.co) 
-
+- [Color Space](https://mycolor.space/) for generating color palettes from a single base color.
+- [Color Hunt](https://colorhunt.co) for themed color palettes. 
+- [Muzli Colors](https://colors.muz.li) for color palettes with Live UI Kit Demos.
+- [Web Gradients](https://webgradients.com/) for aesthetic gradient ideas with CSS.
+- [Dribbble shots](https://dribbble.com) for UI ideas with downloadable assets.
+- [Freepik](https://freepik.com) for more UI ideas, pictures, videos, and many downloadable assets.
