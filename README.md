@@ -7,5 +7,5 @@ It is generally useful to create a project brief with the following information:
 - Website content. 
 - Design guidelines and/or philosophies. 
 
-An example of a project brief can be found [here](https://github.com/MFarabi619/ui-ux-resources/raw/main/Web%20Design%20for%20Beginners%20-%20Project%20Brief.pdf).
+An example of a project brief can be found [here](https://github.com/MFarabi619/ui-ux-resources/blob/main/Web%20Design%20for%20Beginners%20-%20Project%20Brief.pdf).
 
